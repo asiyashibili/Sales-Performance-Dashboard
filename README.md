@@ -27,3 +27,6 @@ To practice data visualization and exploratory business analysis by turning sale
 
 ## Project File
 The Tableau packaged workbook (`.twbx`) is included in this repository.
+## Dashboard Preview
+
+![Sales Performance Dashboard](image.png)
